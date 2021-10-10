@@ -1,0 +1,7 @@
+classes=2
+train  = data/train.list
+valid  = data/test.list
+backup = /content/drive/MyDrive/
+labels = data/train.labels.list
+names  = data/train.shortnames.list
+top=5
